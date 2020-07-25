@@ -29,6 +29,6 @@ MNIST라는 Dataset을 들어보셨는지 모르겠습니다. 딥러닝을 배�
 
 Q3 코드 출처 : https://www.geeksforgeeks.org/identifying-handwritten-digits-using-logistic-regression-pytorch/
 
-**Q4-1)** 2-4 코드에서 optim.SGD를 사용하지않고 코드를 짠다면 어떤 방식으로 짜야할까요? 설명해주세요.
+**Q4-1)** 2-3 In[14] 코드에서 optim.SGD를 사용하지않고 코드를 짠다면 어떤 방식으로 짜야할까요? 설명해주세요.
 
-**Q4-2)** Gradient descent 코드를 구현하는 문제입니다. 2-4의 코드에서 다른 optimizer(3개 ex)adam, rmsprop, sgd에 momentum 추가 등등)를 이용하여 결과값을 비교해주세요.
+**Q4-2)** Gradient descent 코드를 구현하는 문제입니다. 2-3 In[14]의 코드에서 다른 optimizer(3개 ex)adam, rmsprop, sgd에 momentum 추가 등등)를 이용하여 결과값을 비교해주세요.
