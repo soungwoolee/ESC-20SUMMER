@@ -1,5 +1,5 @@
 ## 과제 가이드라인
-Jupyter에서 코드 및 마크다운문법으로 과제 완료하신 후에 깃헙에 'Week1 HW1_Regression_서경덕.ipynb'으로 업로드 해주시면 됩니다.
+Jupyter에서 코드 및 마크다운문법으로 과제 완료하신 후에 깃헙에 'Week1 HW1_Regression_GyeongdeokSeo(본인이름).ipynb'으로 업로드 해주시면 됩니다.
 
 ## 첫주차 과제
 
