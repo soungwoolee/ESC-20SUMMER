@@ -16,7 +16,7 @@
 부족한 이론이나 수식등을 채우셔서 ipynb 혹은 ppt 파일을 만드셔서 발표하시면 됩니다.
 
 ## DataAnalysis
-사이트 : https://www.bigcontest.or.kr/
+사이트 : https://www.bigcontest.or.kr/ <br>
 설명회 : https://www.youtube.com/channel/UCvhnZbNn3LHC_smgs-7fpRQ/
 
 1조 : 홈쇼핑 <br>
